@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <codelist name="FinanceType" xml:lang="en" category-codelist="FinanceType-category" complete="1">
     <metadata>
         <name>
@@ -13,6 +14,7 @@
             <code>110</code>
             <name>
                 <narrative>Aid grant excluding debt reorganisation</narrative>
+                <narrative xml:lang="fr">Don hors réorganisation de la dette (y compris quasi-dons)</narrative>
             </name>
             <category>100</category>
         </codelist-item>
@@ -20,6 +22,7 @@
             <code>111</code>
             <name>
                 <narrative>Subsidies to national private investors</narrative>
+                <narrative xml:lang="fr">Subventions aux investisseurs privés nationaux</narrative>
             </name>
             <category>100</category>
         </codelist-item>
@@ -27,6 +30,7 @@
             <code>210</code>
             <name>
                 <narrative>Interest subsidy grant in AF</narrative>
+                <narrative xml:lang="fr">Bonification d’intérêt dans un financement mixte</narrative>
             </name>
             <category>200</category>
         </codelist-item>
@@ -34,6 +38,7 @@
             <code>211</code>
             <name>
                 <narrative>Interest subsidy to national private exporters</narrative>
+                <narrative xml:lang="fr">Bonification d’intérêt octroyée aux exportateurs privés nationaux</narrative>
             </name>
             <category>200</category>
         </codelist-item>
@@ -41,6 +46,7 @@
             <code>310</code>
             <name>
                 <narrative>Deposit basis</narrative>
+                <narrative xml:lang="fr">Base des dépôts</narrative>
             </name>
             <category>300</category>
         </codelist-item>
@@ -48,6 +54,7 @@
             <code>311</code>
             <name>
                 <narrative>Encashment basis</narrative>
+                <narrative xml:lang="fr">Base des encaissements (rubrique pour mémoire dans les statistiques du CAD)</narrative>
             </name>
             <category>300</category>
         </codelist-item>
@@ -55,6 +62,7 @@
             <code>410</code>
             <name>
                 <narrative>Aid loan excluding debt reorganisation</narrative>
+                <narrative xml:lang="fr">Prêt d’aide hors réorganisation de la dette</narrative>
             </name>
             <category>400</category>
         </codelist-item>
@@ -62,6 +70,7 @@
             <code>411</code>
             <name>
                 <narrative>Investment-related loan to developing countries</narrative>
+                <narrative xml:lang="fr">Prêt lié à un investissement dans les pays en développement</narrative>
             </name>
             <category>400</category>
         </codelist-item>
@@ -69,6 +78,7 @@
             <code>412</code>
             <name>
                 <narrative>Loan in a joint venture with the recipient</narrative>
+                <narrative xml:lang="fr">Prêt dans une coentreprise avec le pays bénéficiaire</narrative>
             </name>
             <category>400</category>
         </codelist-item>
@@ -76,6 +86,7 @@
             <code>413</code>
             <name>
                 <narrative>Loan to national private investor</narrative>
+                <narrative xml:lang="fr">Prêt à un investisseur privé national</narrative>
             </name>
             <category>400</category>
         </codelist-item>
@@ -83,6 +94,7 @@
             <code>414</code>
             <name>
                 <narrative>Loan to national private exporter</narrative>
+                <narrative xml:lang="fr">Prêt à un exportateur privé national</narrative>
             </name>
             <category>400</category>
         </codelist-item>
@@ -90,6 +102,7 @@
             <code>451</code>
             <name>
                 <narrative>Non-banks guaranteed export credits</narrative>
+                <narrative xml:lang="fr">Crédits à l'exportation garantis du secteur non bancaire</narrative>
             </name>
             <category>450</category>
         </codelist-item>
@@ -97,6 +110,7 @@
             <code>452</code>
             <name>
                 <narrative>Non-banks non-guaranteed portions of guaranteed export credits</narrative>
+                <narrative xml:lang="fr">Fraction non garantie des crédits à l'exportation garantis du secteur bancaire</narrative>
             </name>
             <category>450</category>
         </codelist-item>
@@ -104,6 +118,7 @@
             <code>453</code>
             <name>
                 <narrative>Bank export credits</narrative>
+                <narrative xml:lang="fr">Crédits à l'exportation du secteur bancaire</narrative>
             </name>
             <category>450</category>
         </codelist-item>
@@ -111,6 +126,8 @@
             <code>510</code>
             <name>
                 <narrative>Acquisition of equity as part of a joint venture with the recipient</narrative>
+                <narrative xml:lang="fr">Acquisition de prises de participation dans une coentreprise avec le pays
+bénéficiaire</narrative>
             </name>
             <category>500</category>
         </codelist-item>
@@ -118,6 +135,7 @@
             <code>511</code>
             <name>
                 <narrative>Acquisition of equity not part of joint venture in developing countries</narrative>
+                <narrative xml:lang="fr">Acquisition de prises de participation en dehors des coentreprises avec les pays en développement</narrative>
             </name>
             <category>500</category>
         </codelist-item>
@@ -125,13 +143,15 @@
             <code>512</code>
             <name>
                 <narrative>Other acquisition of equity</narrative>
+                <narrative xml:lang="fr">Autre acquisition de prises de participation</narrative>
             </name>
             <category>500</category>
         </codelist-item>
         <codelist-item>
             <code>610</code>
             <name>
-                <narrative>Debt forgiveness: ODA claims (P)</narrative>
+                <narrative>Debt forgiveness:  ODA claims (P)</narrative>
+                <narrative xml:lang="fr">Annulation/conversion de la dette : créance APD (P)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -139,6 +159,7 @@
             <code>611</code>
             <name>
                 <narrative>Debt forgiveness: ODA claims (I)</narrative>
+                <narrative xml:lang="fr">Annulation/conversion de la dette : créance APD (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -146,6 +167,7 @@
             <code>612</code>
             <name>
                 <narrative>Debt forgiveness: OOF claims (P)</narrative>
+                <narrative xml:lang="fr">Annulation/conversion de la dette : créance AASP (P)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -153,20 +175,23 @@
             <code>613</code>
             <name>
                 <narrative>Debt forgiveness: OOF claims (I)</narrative>
+                <narrative xml:lang="fr">Annulation/conversion de la dette : créance AASP (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>614</code>
             <name>
-                <narrative>Debt forgiveness: Private claims (P)</narrative>
+                <narrative>Debt forgiveness:  Private claims (P)</narrative>
+                <narrative xml:lang="fr">Annulation/conversion de la dette : créance du secteur privé (P)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>615</code>
             <name>
-                <narrative>Debt forgiveness: Private claims (I)</narrative>
+                <narrative>Debt forgiveness:  Private claims (I)</narrative>
+                <narrative xml:lang="fr">Annulation/conversion de la dette : créance du secteur privé (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -174,13 +199,15 @@
             <code>616</code>
             <name>
                 <narrative>Debt forgiveness: OOF claims (DSR)</narrative>
+                <narrative xml:lang="fr">Annulation/conversion de la dette : créance AASP (DSR)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>617</code>
             <name>
-                <narrative>Debt forgiveness: Private claims (DSR)</narrative>
+                <narrative>Debt forgiveness:  Private claims (DSR)</narrative>
+                <narrative xml:lang="fr">Annulation/conversion de la dette : créance du secteur privé (DSR)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -188,6 +215,7 @@
             <code>618</code>
             <name>
                 <narrative>Debt forgiveness: Other</narrative>
+                <narrative xml:lang="fr">Annulation/conversion de la dette : autre</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -195,6 +223,7 @@
             <code>620</code>
             <name>
                 <narrative>Debt rescheduling: ODA claims (P)</narrative>
+                <narrative xml:lang="fr">Rééchelonnement de la dette : créance APD (P)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -202,6 +231,7 @@
             <code>621</code>
             <name>
                 <narrative>Debt rescheduling: ODA claims (I)</narrative>
+                <narrative xml:lang="fr">Rééchelonnement de la dette : créance APD (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -209,6 +239,7 @@
             <code>622</code>
             <name>
                 <narrative>Debt rescheduling: OOF claims (P)</narrative>
+                <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (P)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -216,20 +247,23 @@
             <code>623</code>
             <name>
                 <narrative>Debt rescheduling: OOF claims (I)</narrative>
+                <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>624</code>
             <name>
-                <narrative>Debt rescheduling: Private claims (P)</narrative>
+                <narrative>Debt rescheduling:  Private claims (P)</narrative>
+                <narrative xml:lang="fr">Rééchelonnement de la dette : créance du secteur privé (P)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>625</code>
             <name>
-                <narrative>Debt rescheduling: Private claims (I)</narrative>
+                <narrative>Debt rescheduling:  Private claims (I)</narrative>
+                <narrative xml:lang="fr">Rééchelonnement de la dette : créance du secteur privé (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -237,34 +271,39 @@
             <code>626</code>
             <name>
                 <narrative>Debt rescheduling: OOF claims (DSR)</narrative>
+                <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (RSD)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>627</code>
             <name>
-                <narrative>Debt rescheduling: Private claims (DSR)</narrative>
+                <narrative>Debt rescheduling:  Private claims (DSR)</narrative>
+                <narrative xml:lang="fr">Rééchelonnement de la dette : créance du secteur privé (RSD)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>630</code>
             <name>
-                <narrative>Debt rescheduling: OOF claim (DSR - original loan principal)</narrative>
+                <narrative>Debt rescheduling: OOF claim (DSR – original loan principal)</narrative>
+                <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (RSD – principal du prêt d’origine)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>631</code>
             <name>
-                <narrative>Debt rescheduling: OOF claim (DSR - original loan interest)</narrative>
+                <narrative>Debt rescheduling: OOF claim (DSR – original loan interest)</narrative>
+                <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (RSD – intérêts du prêt d’origine)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>632</code>
             <name>
-                <narrative>Debt rescheduling: Private claim (DSR - original loan principal)</narrative>
+                <narrative>Debt rescheduling: Private claim (DSR – original loan principal)</narrative>
+                <narrative xml:lang="fr">Rééchelonnement de la dette : créance du secteur privé (RSD – principal du prêt d’origine)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -272,6 +311,7 @@
             <code>710</code>
             <name>
                 <narrative>Foreign direct investment</narrative>
+                <narrative xml:lang="fr">Investissement direct international</narrative>
             </name>
             <category>700</category>
         </codelist-item>
@@ -279,6 +319,7 @@
             <code>711</code>
             <name>
                 <narrative>Other foreign direct investment, including reinvested earnings</narrative>
+                <narrative xml:lang="fr">Autre investissement direct international , y compris les bénéfices réinvestis</narrative>
             </name>
             <category>700</category>
         </codelist-item>
@@ -286,13 +327,15 @@
             <code>810</code>
             <name>
                 <narrative>Bank bonds</narrative>
+                <narrative xml:lang="fr">Obligations du secteur bancaire</narrative>
             </name>
             <category>800</category>
         </codelist-item>
         <codelist-item>
             <code>811</code>
             <name>
-                <narrative>Non-bank bonds</narrative>
+                <narrative>Non-bank  bonds</narrative>
+                <narrative xml:lang="fr">Obligations du secteur non bancaire</narrative>
             </name>
             <category>800</category>
         </codelist-item>
@@ -300,6 +343,7 @@
             <code>910</code>
             <name>
                 <narrative>Other bank securities/claims</narrative>
+                <narrative xml:lang="fr">Autres titres/créances du secteur bancaire</narrative>
             </name>
             <category>900</category>
         </codelist-item>
@@ -307,6 +351,7 @@
             <code>911</code>
             <name>
                 <narrative>Other non-bank securities/claims</narrative>
+                <narrative xml:lang="fr">Autres titres/créances du secteur non bancaire</narrative>
             </name>
             <category>900</category>
         </codelist-item>
@@ -314,8 +359,10 @@
             <code>912</code>
             <name>
                 <narrative>Securities and other instruments issued by multilateral agencies</narrative>
+                <narrative xml:lang="fr">Titres et autres instruments émis par les agences multilatérales</narrative>
             </name>
             <category>900</category>
         </codelist-item>
     </codelist-items>
 </codelist>
+

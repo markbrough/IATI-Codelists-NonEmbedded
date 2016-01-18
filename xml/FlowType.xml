@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <codelist name="FlowType" xml:lang="en" complete="1">
     <metadata>
         <name>
@@ -45,7 +46,7 @@
         <codelist-item>
             <code>35</code>
             <name>
-                <narrative>Private Market</narrative>
+                <narrative>Private market</narrative>
                 <narrative xml:lang="fr">Apports privés aux conditions du marché</narrative>
             </name>
             <description>
@@ -77,3 +78,4 @@
         </codelist-item>
     </codelist-items>
 </codelist>
+
